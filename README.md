@@ -23,21 +23,36 @@ As today there may be a possible issue within WordPress, it was difficult to com
 
 **Day 3** 
 
-After begin able to access WordPress, I was able to efficiently add content into the WordPress. Whilst inputting in the content, it was difficult to make the content go in the right category as I did not properly fixed the category issue on Day 1 However, today I was able to fix that issue and was able to add my content into the correct category. 
+Finally being able to access WordPress at a faster speed, I was able to efficiently add content into the WordPress. Whilst inputting content, it was difficult to make the content go into the correct category as I did not properly fixed the category issue on Day 1 however, today I was able to fix that issue and was able to add my content into the correct category. 
 
 Today was more of creating content and putting content into the WordPress therefore, there was not much difficulty faced apart from trying to categories the content into the right category as well as creating professional looking content. 
+
+**Day 4**
+ 
+ Today's main goal is to further create a professional design and to improve my wedsite design. Through the use of the plugins I was able to create a fast website by reducing the size of the images inserted into my website as well as maintain traffic that may occur due to malicious users. Today was quite productive as I was able to fully understand the plugins more and was able to create a website run on efficient plugins. 
+ 
+ The redevelopment of my website went well today the only difficulty I faced today was trying to create the featured links as well as trying to place image thumbnails for each post. I was able to complete this task after many challenges through researching and going on the wordpress document website for instructions. 
+ 
+ At this stage, I believe I have almost completed the project. However, to further improve my project, I will further research on different plugins that I could used to create an even more faster and controlled website. Therefore, the next time I work on this project I will be aiming to work on more plugins as well as fine tunning my blog/resume site.
+
+
+**Day 5**
+
+As noted in my previous report of the day, today I worked on the plugins as well as further developing my blog/resume site. Through vigourous research and much difficulty I found ...............
+
 
 ## Plugins
 The list of presented below are the plugins installed in the WordPress website and an explanation will be provided as to why the plugin was choosen.
    
 1. **Wordfence Security - Firewall & Malware Scan**
    
-   With the use of the plugin, my blog/resume will be much safer to use and will block malicious traffic. It acts as a malware    scanner and checks for spams, traffic and malicious codes. This will also alert me if there are any issues with my security    as well as scans for content, posts and comments on my website for malicious files. I choose this instead of Akismet Anti-Spam because it was able to do all the functions of Akismet Anti-Spam as well as additional features that Akismet Anti-Spam did not have.  
+   With the use of the plugin, my blog/resume will be much safer to use and will block malicious traffic. It acts as a malware scanner and checks for spams, traffic and malicious codes. This plugin will also alert me if there are any issues with my security as well as scans for content, posts and comments on my website for malicious files. I choose this instead of Akismet Anti-Spam because it was able to do all the functions of Akismet Anti-Spam as well as additional features that Akismet Anti-Spam did not have. This plugin will act as my traffic manager and will check that my website is secure from any form of malicious users making the plugin very ideal to use. 
    
 2. **Asset CleanUP: Page Speed Booster**
    
-   Currently my website takes a while to load and star up therefore, with the use of this plugin it will be able to make my   site load faster and minimise the amount of HTTP requests, preload CSS/JavaScript files to whilst minifying them as well. 
+   Currently my website takes a while to load and star up therefore, with the use of this plugin it will be able to make my site load faster and minimise the amount of HTTP requests, preload CSS/JavaScript files to whilst minifying them as well. When creating a post I can instantly select what I want to reduce and what in the page I want to reduce down or pre-load. 
    
-3. **Elementor Page Builder**
-This elementor was used instead of a Divibecause it was a more convienient way of customising and editing the template of my website. Moreover, it is a much faster and contains more features then divi. 
+3. **Imagify**
+
+   Imagify is used other than other plugins that help with minimising the sizes of images for the website because it is easier to use and also through the plugin you can choose whether you want to reduce the size of your website as well as the images you want to input on the website. This makes it an ideal plugin to help with reducing the size of the website to help it run faster and smoother. By changing the settings in Imagify, I was able to get the plugin to automatically reduce the sizes of the images I upload onto my website without having to externally compress the images down. This makes it convenient for its users and makes the website faster at the same time. 
    

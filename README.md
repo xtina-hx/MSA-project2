@@ -50,7 +50,9 @@ The list of presented below are the plugins installed in the WordPress website a
    
 2. **Asset CleanUP: Page Speed Booster**
    
-   Currently my website takes a while to load and star up therefore, with the use of this plugin it will be able to make my site load faster and minimise the amount of HTTP requests, preload CSS/JavaScript files to whilst minifying them as well. When creating a post I can instantly select what I want to reduce and what in the page I want to reduce down or pre-load. 
+   Currently my website takes a while to load and star up therefore, with the use of this plugin it will be able to make my site load faster and minimise the amount of HTTP requests, preload CSS/JavaScript files to whilst minifying them as well. When creating a post I can instantly select what I want to reduce and what in the page I want to reduce down or pre-load. For this plugin, I only compressed the javascript because I noticed when I compress the CSS my layout of the blog/resume site changes and therefore, the outcome is not what I wanted. Thus, when I posted on my blog/resume site, the javascript was the only one that was compress. 
+   
+   This plugin was very useful as I was able to create a faster blog/resume site because the plugin was able to help me reduce down the sizes of my posts which made it very convenient to access. I would recommened this plugin to others as it worked perfectly for my site. 
    
 3. **Imagify**
 

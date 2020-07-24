@@ -38,8 +38,14 @@ Today was more of creating content and putting content into the WordPress theref
 
 **Day 5**
 
-As noted in my previous report of the day, today I worked on the plugins as well as further developing my blog/resume site. Through vigourous research and much difficulty I found ...............
+As noted in my previous report of the day, today I worked on the plugins as well as further developing my blog/resume site. Through vigourous research and much difficulty I found WordFence Security - Firewall & Malware Scan as the best plugin to use for my site. This is because the plugin is able to automatically scan as well as send me a notification through to my email when a malicious user is identified. This includes spams, traffic, malicious comments etc. With the use of this plugin the speed of my website will be faster as well as safe. 
 
+After concluding that WordPress can sometimes be slow to load up through the confirmation of email the MSA team, I have decided to add a plugin that can detect traffic or any malicious users in my site. This plugin will be explained further later in the Plugins section. Therefore, today with the improvement of the speed, I believe it is safe for me to submit my work without stress. 
+
+**Day 6**
+Today is the last day I work on my project. After reviewing the content, speed and plugin on my blog/resume site, I have decided to submit my project to MSA today. After many struggles to improve the speed of my WordPress incase WordPress has any internal issues again, I had finally submitted my work. 
+
+Therefore, today I conclude my daily reports of the challenges faced during the creation of this project. 
 
 ## Plugins
 The list of presented below are the plugins installed in the WordPress website and an explanation will be provided as to why the plugin was choosen.
@@ -48,6 +54,7 @@ The list of presented below are the plugins installed in the WordPress website a
    
    With the use of the plugin, my blog/resume will be much safer to use and will block malicious traffic. It acts as a malware scanner and checks for spams, traffic and malicious codes. This plugin will also alert me if there are any issues with my security as well as scans for content, posts and comments on my website for malicious files. I choose this instead of Akismet Anti-Spam because it was able to do all the functions of Akismet Anti-Spam as well as additional features that Akismet Anti-Spam did not have. This plugin will act as my traffic manager and will check that my website is secure from any form of malicious users making the plugin very ideal to use. 
    
+   Wordfence was further chosen to be a plugin in my website because in comparison to Malcare Security because WordFence is a server-side scanner making it more accurate to use than Malcare Security. Though Malcare Security has the necessary functions to identify traffic and malicious content and users, it is not convient to use as the setting are far more complicated and needs to be set properly for the plugin to function as the user wants. Thus, with the easy use of WordFence, I downloaded this for easy access to an accurate plugin that will provide security to my website. 
 2. **Asset CleanUP: Page Speed Booster**
    
    Currently my website takes a while to load and star up therefore, with the use of this plugin it will be able to make my site load faster and minimise the amount of HTTP requests, preload CSS/JavaScript files to whilst minifying them as well. When creating a post I can instantly select what I want to reduce and what in the page I want to reduce down or pre-load. For this plugin, I only compressed the javascript because I noticed when I compress the CSS my layout of the blog/resume site changes and therefore, the outcome is not what I wanted. Thus, when I posted on my blog/resume site, the javascript was the only one that was compress. 
@@ -57,6 +64,8 @@ The list of presented below are the plugins installed in the WordPress website a
 3. **Imagify**
 
    Imagify is used other than other plugins that help with minimising the sizes of images for the website because it is easier to use and also through the plugin you can choose whether you want to reduce the size of your website as well as the images you want to input on the website. This makes it an ideal plugin to help with reducing the size of the website to help it run faster and smoother. By changing the settings in Imagify, I was able to get the plugin to automatically reduce the sizes of the images I upload onto my website without having to externally compress the images down. This makes it convenient for its users and makes the website faster at the same time. 
+   
+   Compared to ShortPixel (another Image Optimiser), Imagify is able to convert up to 25mb of images for free and does not cost money before using up the 25mb of images. Moreover, Imagify works on compressing the images uploaded onto the website as to Shortpixel where it converts the image into its fixed category. Therefore, Imagify gives me more of the freedom to compress my images without losing any of its content and size, making it a very ideal plugin to use. 
    
 ## Choice of Design
 Throughout the process of creating this blog/resume site on WordPress, I tried to create a professional looking design whilst merging my personality with it. The website design has a background of white marble and the main header background is with a girl holding a book and coffee. These mostly resemble me the most as I like to read as well as love the elegant look of marble. 

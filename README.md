@@ -72,3 +72,6 @@ Overall, the choice of my design was to keep the website appearing as profession
 Ultimately, this report was to reflect on the project given by MSA and was to present my understand of the project. By displaying the challenges I faced during the process of creating the blog/resume site through the use of daily reports, I am able to show my development throughout the project and my understanding of WordPress. Through the explanation given of the plugins used for site as well, I am able to present my understanding of plugins as well as the reasonings as to why I needed the plugins. By having these plugins, the website had become much faster and is able to load quicker whilst also tracking traffic in my website. These plugins, helped develope my site and have been used constantly throughout the process of creating this website. 
 
 As a result, I enjoyed the process of creating this project. Though there was much difficulty faced throughout the creation of this project, I was able to develop my website as well as my understanding and experience with WordPress. I hope to further implement this knowledge again sometime in future to demonstrate my strong understanding of WordPress and gain more experiences. 
+
+## Link to my Blog/Resume site on WordPress
+https://msaproject2.azurewebsites.net
